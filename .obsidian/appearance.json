@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 14,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": true
+}

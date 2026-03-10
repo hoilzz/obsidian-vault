@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "7ab3f38e072c93b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "94406a8c2c9723d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dev/font/dynamic subset font.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1938617a03ddfb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5d562164f2cb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1cb12e1bbbc07ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e006ea3d64f30c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "74862e91aba2f882",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ce49596092451c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fab53148c23fa5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/font/dynamic subset font.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19e3ab95ba89132b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241,
+    "collapsed": true
+  },
+  "active": "94406a8c2c9723d2",
+  "lastOpenFiles": [
+    "dev/font/font 개념.md",
+    "dev/font/webfont.md",
+    "dev/font/optimizing fonts with next.font.md",
+    "dev/font/font JS 파일에서 가져오기.md",
+    "work/sus/오늘신작 페이지에 채팅소설 추가.md",
+    "journal/2022-11-02.md",
+    "journal/2022-10-14.md",
+    "dev/레디미/10.13 (4주차).md",
+    "work/sus/두쪽보기 왼쪽 페이지 기준으로 시크바에 페이지수 노출 -> 마지막 페이지 보여도 isDone false 됨.md",
+    "journal/2022-10-11.md"
+  ]
+}

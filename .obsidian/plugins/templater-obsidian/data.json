@@ -1,0 +1,63 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "template/basic.md"
+    },
+    {
+      "folder": "journal/0-d",
+      "template": "template/_templates/deep-work-daily.md"
+    },
+    {
+      "folder": "journal/1-w",
+      "template": "template/journal-w.md"
+    },
+    {
+      "folder": "2-area/ab/mentor-log",
+      "template": "template/멘토링 리뷰 템플릿.md"
+    },
+    {
+      "folder": "4-worklog/log",
+      "template": "template/template-worklog.md"
+    },
+    {
+      "folder": "4-worklog/current",
+      "template": "template/template-work-note.md"
+    },
+    {
+      "folder": "0-inbox",
+      "template": "template/template-work-note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "template/basic.md"
+  ],
+  "startup_templates": [
+    "template/basic.md"
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": true
+}

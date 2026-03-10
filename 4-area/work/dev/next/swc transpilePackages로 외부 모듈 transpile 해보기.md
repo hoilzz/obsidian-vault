@@ -1,0 +1,25 @@
+
+- 에러 페이지 
+	- ... syntax 해석 불가
+	- @tanstack/query 에서 ... 사용중
+	- 요기 바벨 설정을 보니 exclude parameter
+- swc로 외부 모듈 transpile 해야될 거 같음
+	- transpilePacakges 옵션을 지원
+	- 페이지웹은 next 12인데 이게 잘 동작안하는 느낌
+	- es5 타겟 트랜스파일을 위한 옵션이 따로 있을까 했지만 그런건 없고
+	- browsersListForSwc 라는 옵션을 추가하여 browserslistrc를 참고하여 빌드할 수 있는 옵션을 추가
+		- https://github.com/vercel/next.js/discussions/33227
+		- https://nextjs.org/blog/next-12-2#other-improvements
+	- 요걸로 해도 ...을 트랜스파일 하지 않음
+	- create-next-app 을 이용하여 next 12, 13 각각 프로젝트에서 트랜스파일 테스트
+	- next 13에서만 ... 트랜스파일이 잘 되어 페이지웹을 next 13으로 버전업
+- 페이지웹을 next 13 버전업한 후에 @tanstack/query의 ...이 잘 트랜스파일 되는 것을 확인
+- 하지만 @tanstack/query의 디펜던시인 @tanstack/query-core의 ...이 트랜스파일 되지 않는 것을 확인
+- 요렇게 되면 줄줄이 계속 나올 때마다 추가해야 할 것 같아 바벨 처럼 node_modules를 트랜스파일할 방법이 없나 찾아봤으나 그런 옵션은 없음
+	- node_modules/, `node_modules/**/*.*` 등 glob 패턴은 적용안됨
+		- https://github.com/vercel/next.js/blob/v13.1.0/packages/next/build/webpack-config.ts#L1258
+		- 요기봐도 뭔가 패키지명을 받아서 resolve 하는느낌..
+	- package.json 의 dependencies, devDependencies를 가져와서 적용했지만 node_modules를 트랜스파일해야 하기 때문에 일부분만 적용되서 안됨
+	- package-lock 파일을 하자니 이럴 거면 바벨을...
+
+- 아직 next 13 혹은 swc를 통해 빌드하도록 도입한 사례가 많지 않아 구글링을 해도 비슷한 경험이 없다. 그래서 결국엔 바벨로...

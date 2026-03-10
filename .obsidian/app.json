@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "foldHeading": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "fileSortOrder": "byModifiedTime",
+  "attachmentFolderPath": "./",
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "useTab": true,
+  "autoPairBrackets": true,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "openBehavior": "daily"
+}

@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "2500ced5b1ef8fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ec77a272310b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa67bdb93e13845",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f20031e9c3f8d036",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97d987cd9d94e284",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff33db8acc61905d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "682e36137d164c78",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a05f632f9a3aa605",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c0f4c3ab9d4a3704",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "starred"
+        }
+      },
+      {
+        "id": "bd2b28dcf17b6d45",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "459542229d64b89a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a59c54834534210",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "12.8.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f73b1c408ac24ffa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "100c54cff008a747",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8aa67bdb93e13845",
+  "lastOpenFiles": [
+    "stock/stock log.md",
+    "25-11-23 국채-정부, 중앙은행이 돈을 풀면 진짜 현금을 푸는걸까?.md",
+    "25-11-17 Net Income, EBITDA (with iren).md",
+    "12.8.md",
+    "claude/claude-2025-10.md",
+    "english/다행이다, ~하길 잘했다.md",
+    "real-estate/부동산 매수 기록/가계약전.md",
+    "real-estate/부동산 매수 기록/부동산 매수 과정별로 주의사항.md",
+    "real-estate/부동산 매수 기록/매수 비용.md",
+    "english/생각나는거/식사.md",
+    "real-estate/23-08-19 lecture.md",
+    "english/생각나는거/식당.md",
+    "english/생각나는거/~할 준비하고 있어.md",
+    "english/wiki/23-10-01 make use of.md",
+    "부동산/23-10-09.md",
+    "부동산/23-10-24.md",
+    "부동산/특례론.md",
+    "👰‍♀️🤵/🧡/23-09-16 letter.md",
+    "부동산/23-08-28 용적률.md",
+    "부동산/Dashboard.md",
+    "부동산/23-09-21 매물.md",
+    "english/wiki/23-10-01 turn out.md",
+    "부동산/23-09-11 재개발(1).md",
+    "부동산/23-09-10 전월세, 금리 상관관계.md",
+    "부동산/COFIX 금리.md",
+    "👰‍♀️🤵/💸/wedding.md"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "0d225a169242b130",
+    "type": "split",
+    "children": [
+      {
+        "id": "20aad35bef4eb2e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "거실.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e0e1e75ad3a6780",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9faeac77be71701b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "bf47c444cd0746d8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "1d131feb4a951bfd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7bcdede607bb474e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "거실.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "20aad35bef4eb2e0",
+  "lastOpenFiles": [
+    "거실.md",
+    "식물/식물.md"
+  ]
+}

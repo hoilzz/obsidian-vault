@@ -1,0 +1,37 @@
+---
+created: 25-12-01
+tags:
+---
+
+### Todo
+```dataview
+task from "4-worklog"
+WHERE !completed
+AND (
+  (due AND due <= date(2025-12-01)) OR 
+  (scheduled AND scheduled <= date(2025-12-01))
+)
+SORT due asc
+```
+### doc
+```dataview
+table file.folder as "folder", wip
+from "4-worklog/current"
+where wip = true
+sort file.mtime desc
+```
+
+### 공유
+
+
+### Done
+
+```dataview
+TASK from "4-worklog"
+WHERE checked = true AND completion = date("2025-12-01")
+```
+
+
+
+
+

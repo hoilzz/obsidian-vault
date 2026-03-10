@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a2534ae9cd82a0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac789d6a698600c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46460ff9138b3619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stock/log/26-1/26-1-3 레포시장.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26-1-3 레포시장"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf72733e9ac24279",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "02f17082e6d5ef8d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "86fda3a1ff434f41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "6a09b7aa12f0def3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4e8053cb6fdce101",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "568626ce3b32418c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efed59fc165ae623",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ab/멘토링 for.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5a6064017eefe383",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "money/부동산 매수 기록/수파푸 103동 21층 A타입.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "8477b4d828826d97",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "money/부동산 매수 기록/수파푸 103동 21층 A타입.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46460ff9138b3619",
+  "lastOpenFiles": [
+    "ab/멘토링 for.md",
+    "ab/prgm/기술 interview - what.md",
+    "ab/멘토링 준비시간을 줄여보자.md",
+    "ab/mentor-log/ch.md",
+    "stock/log/2025-04-07.md",
+    "ab/mentor-log/김태완.md",
+    "ab/mentor-log/황유정 0224 2100.md",
+    "ab/mentor-log/이선재.md",
+    "work/ab/prgm/개발자에 필요한 역량.md",
+    "money/부동산 매수 기록/부동산 매수 과정별로 주의사항.md",
+    "money/부동산 매수 기록/가계약전.md",
+    "money/부동산 매수 기록/부동산에 질문리스트.md",
+    "money/부동산 매수 기록/부동산 매수 기록.md",
+    "money/부동산 매수 기록/계약금, 중도금, 잔금.md",
+    "money/부동산 매수 기록/24.5.13 부동산 매수 주의사항.md",
+    "money/부동산 매수 기록/부동산 해결해야할 것들.md",
+    "money/부동산 매수 기록/은행 질문리스트.md",
+    "money/부동산 매수 기록/24.5.24 나의 LTV, DTI, DSR.md",
+    "money/부동산 매수 기록/스크린샷 2024-05-24 오후 3.21.02.png",
+    "weight/운동/시티드 로우(등 상부).md",
+    "weight/운동/바벨로우.md",
+    "weight/PT/220516 등.md",
+    "weight/식단.md",
+    "weight/PT/220609 하체.md",
+    "weight/PT/220524 가슴.md",
+    "weight/PT/220617 어깨, 플랭크.md",
+    "weight/PT/220510 - 가슴, 어깨.md"
+  ]
+}

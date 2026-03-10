@@ -1,0 +1,29 @@
+-   자기소개
+-   과제 코드 리뷰 (필터, 정렬 기능 가진 상품 리스트 과제)
+    -   왜 Redux?
+        -   Mobx 써봤는지?
+    -   TypeScript랑 Redux 조합 어땠는지?
+    -   왜 SCSS?
+        -   왜 CSS-module?
+        -   [피드백] 최상위 공통 scss에서 하위 컴포넌트의 스타일링까지 갖고 있는 것 같다.
+        -   inline-style로 넣으면 단점?
+            -   React가 힘들어함.. style object 무거워서 dom에 밀어넣을때
+        -   CSS-in-JS는 왜 좋을까?
+    -   왜 Routing 하지 않음?
+    -   왜 마크업 먼저 함?
+    -   왜 마크업 다음에 리덕스 (모델) 작업함?
+    -   왜 모델이 중요함?
+    -   왜 Saga 씀?
+    -   왜 테스트 안함?
+    -   [피드백] 지금 작성한 모델 single source of truth 위반한 것 같다.
+-   Algorithm
+    -   `<div>hello world</div>' ⇒ 트리구조로 바꿔봐라
+        -   타입 (interface) 작성해봐라, 실제 브라우저에선 어떻게 되있는지 아냐
+        -   nested 되면 어떻게 할건지?
+-   React
+    -   hook을 왜 써야할까?
+-   2차
+    -   왜 지원?
+    -   동료랑 문제 있으면?
+    -   지금 회사 업무 강도?
+    -   ...
