@@ -232,15 +232,17 @@
       "bases:새 베이스 생성하기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2c3dc4529d53e80b",
   "lastOpenFiles": [
-    "journal/0-d/26-03-10.md",
-    "journal/0-d/26-03-11.md",
-    "2-project/stock/아이렌과 네비우스 포지션.md",
+    "obsidian-improvement-plan.md",
     "4-worklog/log/2026-03-10.md",
+    "journal/0-d/26-03-11.md",
+    "journal/0-d/26-03-10.md",
+    "2-project/stock/아이렌과 네비우스 포지션.md",
     "2-project/stock/26-2-10 베어메탈이란.md",
     "2-project/stock/-.md",
     "journal/0-d/26-03-09.md",
@@ -262,7 +264,6 @@
     "CLAUDE.md",
     "template/template-worklog.md",
     "2-project/book-투자의배신/투자의 배신 - 1.md",
-    "2-project/book-미국을 안다는 착각/book-1.md",
     "2-project/book-투자의배신",
     "3-garden/stock/양도세",
     "3-garden/stock/Untitled",
