@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-worklog/log/2026-03-10.md",
+                "file": "4-worklog/log/2026-03-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-10"
+              "title": "2026-03-11"
             }
           }
         ]
@@ -238,8 +238,8 @@
   },
   "active": "2c3dc4529d53e80b",
   "lastOpenFiles": [
-    "4-worklog/log/2026-03-11.md",
     "4-worklog/log/2026-03-10.md",
+    "4-worklog/log/2026-03-11.md",
     "journal/0-d/26-03-11.md",
     "journal/how-to-use.md",
     "template/_templates/deep-work-daily.md",
