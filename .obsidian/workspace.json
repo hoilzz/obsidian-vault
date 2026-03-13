@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7783c53ed4243b3",
+        "id": "40fb59dd316afad5",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3dc4529d53e80b",
+            "id": "aa1719927565e6ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/task-dashboard.md",
+                "file": "obsidian-improvement-plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task-dashboard"
+              "title": "obsidian-improvement-plan"
             }
           }
         ]
@@ -236,10 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c3dc4529d53e80b",
+  "active": "aa1719927565e6ab",
   "lastOpenFiles": [
-    "journal/focus-workflow.md",
     "journal/task-dashboard.md",
+    "4-worklog/worklog-backlog.md",
+    "3-garden/stock/log/25-11/25-11-7 기술주 중심 큰 하락.md",
+    "3-garden/stock 2/log/25-11/25-11-7 기술주 중심 큰 하락.md",
+    "journal/focus-workflow.md",
     "journal/0-d/26-03-13.md",
     "4-worklog/log/2026-03-13.md",
     "4-worklog/log/2026-03-11.md",
@@ -261,9 +264,6 @@
     "4-worklog/current/AD - 캐시 정보 영역 수정.md",
     "4-worklog/log/2026-03-09.md",
     "4-worklog/current/캐시프렌즈 캐시 정보 영역 수정.md",
-    "2-project/stock/26-3-8 이란 사태 장기화.md",
-    "2-project/stock/26-3-5 clarity act 트럼프 잔소리.md",
-    "journal/0-d/26-03-06.md",
     "2-project/book-투자의배신",
     "3-garden/stock/양도세",
     "3-garden/stock/Untitled",
