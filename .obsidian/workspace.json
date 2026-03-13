@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-worklog/log/2026-03-11.md",
+                "file": "journal/task-dashboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-11"
+              "title": "task-dashboard"
             }
           }
         ]
@@ -238,7 +238,8 @@
   },
   "active": "2c3dc4529d53e80b",
   "lastOpenFiles": [
-    "4-worklog/log/무제.md",
+    "journal/0-d/26-03-13.md",
+    "4-worklog/log/2026-03-13.md",
     "4-worklog/log/2026-03-11.md",
     "4-worklog/log/2026-03-10.md",
     "journal/0-d/26-03-11.md",
@@ -263,7 +264,6 @@
     "journal/0-d/26-03-06.md",
     "journal/0-d/26-03-08.md",
     "journal/0-d/26-03-07.md",
-    "journal/0-d/무제.md",
     "2-project/book-투자의배신",
     "3-garden/stock/양도세",
     "3-garden/stock/Untitled",
