@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/0-d/26-03-13.md",
+                "file": "2-project/book-투자의배신/투자의 배신 - 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "26-03-13"
+              "title": "투자의 배신 - 1"
             }
           }
         ]
@@ -270,8 +270,8 @@
   },
   "active": "93e812c0dce3e8c3",
   "lastOpenFiles": [
-    "journal/focus-workflow.md",
     "journal/0-d/26-03-13.md",
+    "journal/focus-workflow.md",
     "obsidian-improvement-plan.md",
     "CLAUDE.md",
     "template/weekly-review.md",
