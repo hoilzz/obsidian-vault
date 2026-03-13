@@ -64,13 +64,13 @@
 ## 남은 작업 / 후속 아이디어
 
 ### 확인 필요
-- [ ] "이번 주 완료" Tasks 쿼리 (`done after last monday`) 동작 확인
-- [ ] 주간 리뷰 템플릿의 Dataview 쿼리 동작 확인
-- [ ] 주간 리뷰를 journal/1-w/ 경로에 Templater로 생성하는 워크플로우 확인
+- [x] "이번 주 완료" Tasks 쿼리 (`done after last monday`) 동작 확인 — 문법 정상
+- [x] 주간 리뷰 템플릿의 Dataview 쿼리 동작 확인 — 문법 정상
+- [x] 주간 리뷰를 journal/1-w/ 경로에 Templater로 생성하는 워크플로우 확인 — Templater 설정 수정 완료 (`template/weekly-review.md` 연결)
 
 ### 추가 개선 후보
-- [ ] 노트 정리: 3-garden, 4-area 폴더 구조 점검 및 불필요 노트 아카이브
-- [ ] 0-inbox/ 활용: 빠른 캡처 → 주간 리뷰에서 정리하는 흐름 만들기
+- [x] 노트 정리: 3-garden, 4-area 폴더 구조 점검 및 불필요 노트 아카이브 — iCloud 중복 폴더 4개 삭제 + `real-estate 1` → `real-estate` 이름 변경
+- [x] 0-inbox/ 활용: 빠른 캡처 → 주간 리뷰에서 정리하는 흐름 만들기 — 주간 리뷰 템플릿에 인박스 정리 섹션 추가
 - [ ] 데일리 노트 루틴 정착 후: 월간 리뷰 도입 검토
 - [ ] Dataview 활용: 자주 수정하는 노트, 오래 안 본 노트 등 자동 서페이싱
 

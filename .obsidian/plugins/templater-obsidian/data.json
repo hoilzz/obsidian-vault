@@ -24,7 +24,7 @@
     },
     {
       "folder": "journal/1-w",
-      "template": "template/journal-w.md"
+      "template": "template/weekly-review.md"
     },
     {
       "folder": "2-area/ab/mentor-log",
