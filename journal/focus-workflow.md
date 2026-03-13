@@ -1,6 +1,6 @@
 # 🔁 Daily Focus Workflow
 
-> [[task-dashboard|📋 대시보드]] | [[weekly-review|📅 주간 리뷰]]
+> [[task-dashboard|📋 대시보드]] | [[journal/1-w/|📅 주간 리뷰]]
 
 ## 규칙 2개
 1. 할 일은 아무 노트에나 `- [ ] 할 일`로 적기 (마감 있으면 `📅 YYYY-MM-DD`)

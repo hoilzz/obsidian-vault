@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/1-w/무제.md",
+                "file": "template/weekly-review.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "weekly-review"
             }
           }
         ]
@@ -295,8 +295,8 @@
   },
   "active": "9f021254636d1565",
   "lastOpenFiles": [
-    "template/weekly-review.md",
     "journal/1-w/무제.md",
+    "template/weekly-review.md",
     "journal/0-d/26-03-13.md",
     "journal/1-w",
     "4-area/real-estate/real-estate/부동산 강의 기록/현재시장의 이해 (갭투자 이해).md",

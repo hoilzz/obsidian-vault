@@ -1,6 +1,6 @@
 # ✅ Task Dashboard
 
-> [[focus-workflow|🔁 포커스 워크플로우]] | [[weekly-review|📅 주간 리뷰]]
+> [[focus-workflow|🔁 포커스 워크플로우]] | [[journal/1-w/|📅 주간 리뷰]]
 
 ## 오늘/연체 (📅 기준)
 ```tasks
