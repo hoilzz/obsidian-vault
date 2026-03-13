@@ -4,37 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "40fb59dd316afad5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f021254636d1565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/weekly-review.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "weekly-review"
-            }
-          }
-        ]
-      },
-      {
-        "id": "734c17c254077ba6",
+        "id": "4b56a426522b9f4e",
         "type": "tabs",
         "children": [
           {
@@ -60,7 +30,13 @@
               "icon": "lucide-file",
               "title": "focus-workflow"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "734c17c254077ba6",
+        "type": "tabs",
+        "children": [
           {
             "id": "aa1719927565e6ab",
             "type": "leaf",
@@ -87,8 +63,7 @@
               "title": "26-03-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,11 +268,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f021254636d1565",
+  "active": "93e812c0dce3e8c3",
   "lastOpenFiles": [
-    "journal/1-w/무제.md",
-    "template/weekly-review.md",
     "journal/0-d/26-03-13.md",
+    "CLAUDE.md",
+    "template/weekly-review.md",
+    "journal/1-w/무제.md",
     "journal/1-w",
     "4-area/real-estate/real-estate/부동산 강의 기록/현재시장의 이해 (갭투자 이해).md",
     "4-area/real-estate/real-estate/부동산 강의 기록/현재시기의 이해 2 - (~40).md",
@@ -323,7 +299,6 @@
     "4-area/real-estate/archive/증여/스크린샷 2024-06-30 오후 10.31.33.png",
     "4-area/real-estate/archive/증여/세무조사와 PCI, FIU.md",
     "4-area/real-estate/archive/증여/부채사후관리.md",
-    "4-area/real-estate/archive/증여/부모님과 계좌이체 내역.md",
     "4-area/real-estate/부동산 매수 기록/스크린샷 2025-01-15 오전 1.23.28.png",
     "4-area/real-estate/부동산 매수 기록/스크린샷 2024-05-24 오후 3.21.02.png",
     "4-area/real-estate/부동산 매수 기록/IMG_9639.png",

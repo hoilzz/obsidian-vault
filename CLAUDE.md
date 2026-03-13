@@ -12,7 +12,7 @@ This is a personal **Obsidian vault** synced via iCloud. It serves as a knowledg
 - `2-project/` — Active projects (books, mentoring, stock research, side projects)
 - `3-garden/` — Evergreen/growing notes (stock analysis, English study, mentoring logs)
 - `4-area/` — Life areas (finance, AI, work, health, real estate, politics)
-- `4-worklog/` — Work-related logs and archives, organized by sprint/phase (3차, 4차, 5차 etc.)
+- `4-worklog/` — **업무 전용** 영역. 회사 업무 로그/아카이브, sprint/phase (3차, 4차, 5차 etc.) 단위로 관리. 나머지 폴더는 모두 개인용
 - `journal/` — Daily notes (`0-d/`), weekly reviews (`1-w/`), task dashboard, focus workflow
 - `template/` — Note templates including daily deep-work template, worklog templates, journal templates
 - `Excalidraw/` — Excalidraw drawing files
