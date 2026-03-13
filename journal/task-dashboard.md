@@ -6,6 +6,7 @@
 ```tasks
 not done
 due before tomorrow
+path does not include 4-worklog
 sort by due
 ```
 
@@ -13,6 +14,7 @@ sort by due
 ```tasks
 not done
 (tags include #focus/study) OR (tags include #focus/dev) OR (tags include #focus/stock)
+path does not include 4-worklog
 sort by due
 ```
 
@@ -23,6 +25,7 @@ no due date
 path does not include template
 path does not include journal/_templates
 path does not include journal/0-d
+path does not include 4-worklog
 sort by path
 group by path
 ```
@@ -31,6 +34,7 @@ group by path
 ```tasks
 done
 done after last monday
+path does not include 4-worklog
 sort by done reverse
 limit 20
 ```
