@@ -4,6 +4,7 @@
 - [ ] 클래리티 법안
 - [ ] 지니어스 법안
 - [ ] https://fanding.kr/@sesang101/post/180334/
+- [ ] https://x.com/ragingwind/status/2032980064292438073?s=46
 - [ ] IREN 관련 GPT 대화 정리
     - https://chatgpt.com/g/g-p-684157333adc819180711dc7d23231ea-stock/c/69b1fa72-ab78-83a2-a9f9-46c5e3d8cd58
     - https://chatgpt.com/g/g-p-684157333adc819180711dc7d23231ea-stock/c/69b200af-9444-83ab-81ae-111fd52d8471

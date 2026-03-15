@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/task-dashboard.md",
+                "file": "journal/0-d/26-03-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task-dashboard"
+              "title": "26-03-15"
             }
           }
         ]
@@ -238,6 +238,7 @@
   },
   "active": "93e812c0dce3e8c3",
   "lastOpenFiles": [
+    "journal/task-dashboard.md",
     "journal/focus-workflow.md",
     "journal/note-dashboard.md",
     "0-inbox/inbox.md",
@@ -248,7 +249,6 @@
     "2-project/book-투자의배신/투자의 배신 - 3.md",
     "obsidian-improvement-plan.md",
     "4-area/family economy/거주형태별 기회비용 분석 (2024-2026).md",
-    "journal/task-dashboard.md",
     "2-project/book-투자의배신/투자의 배신 - 2.md",
     "2-project/book-투자의배신/투자의 배신 - 1.md",
     "CLAUDE.md",
